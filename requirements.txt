@@ -1,0 +1,13 @@
+Hey you need some basics libraries
+
+Python3 {pip install --upgrade pip}
+Kivy==2.3.0 {pip install Kivy}
+firebase-admin {pip install firebase-admin}
+Pillow {pip install Pillow}
+re {pip install re}
+uuid {pip install uuid}
+Clock {pip install Clock}
+Numpy {pip install Numpy}
+bcrypt {pip install bcrypt}
+smtplib {pip install smtplib}
+Builder {pip install Builder}
