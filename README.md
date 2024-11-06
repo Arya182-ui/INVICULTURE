@@ -77,4 +77,4 @@ The Agromy app promotes collaboration through:
 To get started with Agromy:
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Arya182-ui/agromy.git
+   git clone https://github.com/Arya182-ui/INVICULTURE.git
